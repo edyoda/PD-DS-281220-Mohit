@@ -1,0 +1,2 @@
+This line should appear in sample.txtWill it be the second line?
+ Will it be third line or Second?
